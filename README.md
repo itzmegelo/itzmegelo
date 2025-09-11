@@ -1,31 +1,97 @@
-<h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">A passionate programmer from Philippines</h3>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=itzmegelo&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmegelo&label=Profile%20views&color=0e75b6&style=flat" alt="itzmegelo" /> </p>
+<img align="right" src="https://visitor-badge.imlete.cn/?id=153344910&label=VISITORS&labelColor=444&color=F00&type=pv&style=plastic" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmegelo" alt="itzmegelo" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Pojas+Maldora!;+Welcome+to+my+profile!;+Software+Developer;+Web+Developer+from+Philippines" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">A passionate Software Developer and Web Developer from Philippines 🇵🇭</h3>
 
-- 🔭 I’m currently working on **variance**
+<br/>
 
-- 🌱 I’m currently learning **Laravel, Flutter, React-Native**
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- 👯 I’m looking to collaborate on **any kind of projects**
+💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/AceAkira1017/AceAkira1017/issues)**
 
-- 💬 Ask me about **react, vue**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Game%20of%20Thrones%20cloaks%20are%20from%20IKEA-blue)
 
-- 📫 How to reach me **angelo.pojas.maldora@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center"> 
+  <a href="mailto:akiratakuyashi09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/AceAkira1017" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://AceAkira1017.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AceAkira1017&label=Profile%20views&color=0e75b6&style=flat" alt="AceAkira1017" />
+
+<hr/>
+
+<h2 align="center">🎧 Spotify Playing</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31iiuv3aqznamlux2at7phrnbpwa" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmegelo&show_icons=true&locale=en&layout=compact" alt="itzmegelo" /></p>
+<br/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmegelo&show_icons=true&locale=en" alt="itzmegelo" /></p>
+<h2 align="center">📊 Skill Proficiency 📊</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-100%25-orange" />
+  <img src="https://img.shields.io/badge/CSS3-90%25-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow" />
+  <img src="https://img.shields.io/badge/Node.js-80%25-green" />
+  <img src="https://img.shields.io/badge/React-75%25-blue" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmegelo&" alt="itzmegelo" /></p>
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://github.com/jonvicbarcenas/jonvicbarcenas/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AceAkira1017&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align="center">
+  <img width=390 height=153.63 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=AceAkira1017&theme=merko&border_radius=7.4" alt="streak stats"/>
+  <img width=390 height=153.63 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=AceAkira1017&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=AceAkira1017&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
