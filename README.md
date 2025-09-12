@@ -1,7 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=itzmegelo&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-<img align="right" src="https://visitor-badge.imlete.cn/?id=153344910&label=VISITORS&labelColor=444&color=F00&type=pv&style=plastic" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Pojas+Maldora!;+Welcome+to+my+profile!;+Software+Developer;+Web+Developer+from+Philippines" />
 </h1>
@@ -14,9 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Laravel, Code Igniter, Supabase**
 
-💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/AceAkira1017/AceAkira1017/issues)**
+💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/itzmegelo/itzmegelo/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
