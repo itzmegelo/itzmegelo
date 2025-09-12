@@ -37,9 +37,6 @@
 </div>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=AceAkira1017&label=Profile%20views&color=0e75b6&style=flat" alt="AceAkira1017" />
-
 <hr/>
 
 <h2 align="center">🎧 Spotify Playing</h2>
