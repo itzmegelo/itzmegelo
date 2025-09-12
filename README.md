@@ -28,10 +28,10 @@
   <a href="mailto:akiratakuyashi09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/AceAkira1017" target="_blank">
+  <a href="https://linkedin.com/in/itzmegelo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://AceAkira1017.github.io" target="_blank">
+  <a href="https://itzmegelo.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -79,7 +79,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AceAkira1017&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=itzmegelo&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
   </a>
 </div>
 
@@ -88,10 +88,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width=390 height=153.63 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=AceAkira1017&theme=merko&border_radius=7.4" alt="streak stats"/>
-  <img width=390 height=153.63 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=AceAkira1017&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 height=153.63 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=itzmegelo&theme=merko&border_radius=7.4" alt="streak stats"/>
+  <img width=390 height=153.63 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=itzmegelo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=AceAkira1017&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=itzmegelo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
