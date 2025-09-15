@@ -32,12 +32,19 @@
 <br/>
 <hr/>
 
-<h2 align="center">🎧 Spotify Playing</h2>
+### **🛠️ Technologies & Tools**
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31iiuv3aqznamlux2at7phrnbpwa" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-FF2D20?style=flat&logo=codeigniter&logoColor=white)
+![Php](https://img.shields.io/badge/-Php-FF2D20?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF2D20?style=flat&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0170FE?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+![Firebase](https://img.shields.io/badge/-Firebase-4FC08D?style=flat&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <br clear="both"/>
 
 <!-- GitHub Stats -->
