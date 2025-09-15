@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with strong expertise in Java, Html, Css, Javascript, along with experience in building APIs and backend systems.</p>
+<p align="left">I am a Full Stack Developer with strong expertise in Java, Php, Html, Css, Javascript, along with experience in building APIs and backend systems.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
