@@ -53,7 +53,7 @@
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
       <a href="https://github.com/Suhaib3100/multi-format-ai-agents">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=InternFinder&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
       </a>
     </td>
     <td align="center">
@@ -76,114 +76,11 @@
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
