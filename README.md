@@ -36,15 +36,19 @@
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-FF2D20?style=flat&logo=codeigniter&logoColor=white)
-![Php](https://img.shields.io/badge/-Php-FF2D20?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-FF2D20?style=flat&logo=java&logoColor=white)
+![Php](https://img.shields.io/badge/-Php-2B3E84?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-28AE1C?style=flat&logo=android&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0170FE?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/-Firebase-4FC08D?style=flat&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-1D2231?style=flat&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-3766A3?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3D9B26?style=flat&logo=supabase&logoColor=white)
+![MongoDb](https://img.shields.io/badge/-MongoDb-2EC509?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3766A3?style=flat&logo=postgresql&logoColor=white)
 <br clear="both"/>
 
 <!-- GitHub Stats -->
