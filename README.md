@@ -1,39 +1,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angelo+Pojas+Maldora!;+Welcome+to+my+profile!;+Software+Developer;+Web+Developer+from+Philippines" />
-</h1>
+#<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Angelo Maldora! 
+*Developer / Programmer*
+<br /> 
 
-<h3 align="center">A passionate Software Developer and Web Developer from Philippines 🇵🇭</h3>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer with strong expertise in Java, Html, Css, Javascript, along with experience in building APIs and backend systems.</p>
 
-<br/>
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio]([https://ceo.pronexus.in](https://itzmegelo.github.io/MyPortfolio/)) for more details about me.
+<!--End Intro-->
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Laravel, Code Igniter, Supabase**
-
-💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/itzmegelo/itzmegelo/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Game%20of%20Thrones%20cloaks%20are%20from%20IKEA-blue)
-
-</div>
-
-<div align="center"> 
-  <a href="mailto:akiratakuyashi09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/itzmegelo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://itzmegelo.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Suhaib3100&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 <br/>
 <hr/>
 
