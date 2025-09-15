@@ -8,12 +8,21 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with strong expertise in Java, Php, Html, Css, Javascript, along with experience in building APIs and backend systems.</p>
+<p align="left">
+  I am a Full Stack Developer with expertise in Java, PHP, HTML, CSS, and JavaScript, with hands-on experience in building APIs, backend systems, and dynamic web applications. 
+  I enjoy solving real-world problems through clean and efficient code, and I am passionate about continuous learning, exploring new technologies, and contributing to open source. 
+  My interests also include web development, database management, and cloud technologies.
+</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio]([https://ceo.pronexus.in](https://itzmegelo.github.io/MyPortfolio/)) for more details about me.
+
+- ✨ Passionate Programmer :)
+- 🌱 Continuously learning and exploring new technologies — growth never stops.
+- ❤ Contributing to Open Source and sharing knowledge.
+- 💻 Check out my Portfolio for more about me.
+- 🚀 Focused on Web Development, Backend Systems, and Cloud Technologies.
+- 📚 Curious about tools, frameworks, and best practices that improve coding.
+- 🤝 Open to collaborations and meaningful projects.
+- 🎯 Goal: Build impactful solutions and keep improving every day!
 <!--End Intro-->
 
 <!--Profile Count Badge-->
