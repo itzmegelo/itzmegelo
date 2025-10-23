@@ -5,7 +5,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%F0%9F%9A%80;Clean+Code+Enthusiast+%F0%9F%92%8E;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=System+Programmer+%F0%9F%9A%80;Clean+Code+Enthusiast+%F0%9F%92%8E;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -233,19 +233,6 @@ hobbies: [Open Source, Problem Solving, Tech Innovation]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itzmegelo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophy" />
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Weekly Development Breakdown
-
-<div align="center">
-  
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itzmegelo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&border_radius=15)
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
 </div>
 
 ---
