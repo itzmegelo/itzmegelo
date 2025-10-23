@@ -94,7 +94,7 @@ hobbies: [Open Source, Problem Solving, Tech Innovation]
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
-      <br><strong>Tailwind CSS</strong>
+      <br><strong>Tailwind</strong>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
