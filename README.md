@@ -91,7 +91,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmegelo&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
