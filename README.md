@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Angelo%20Maldora&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Angelo%20Maldora&fontSize=90&animation=fadeIn&fontAlignY=38&desc=System%20Programmer%20&descAlignY=51&descAlign=50"/>
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
