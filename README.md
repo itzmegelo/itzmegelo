@@ -1,142 +1,299 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
-
-<div>
-  <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Angelo%20Maldora&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=50"/>
 </div>
 
-#  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Angelo Maldora!
-<br /> 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--Start Intro-->               
-<p align="left">
-  I am a Full Stack Developer with expertise in Java, PHP, HTML, CSS, and JavaScript, with hands-on experience in building APIs, backend systems, and dynamic web applications. 
-  I enjoy solving real-world problems through clean and efficient code, and I am passionate about continuous learning, exploring new technologies, and contributing to open source. 
-  My interests also include web development, database management, and cloud technologies.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%F0%9F%9A%80;Clean+Code+Enthusiast+%F0%9F%92%8E;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <b style="font-size: 18px;">Turning complex problems into elegant solutions, one commit at a time</b>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</div>
 
-- ✨ Passionate Programmer :)
-- 🌱 Continuously learning and exploring new technologies — growth never stops.
-- ❤ Contributing to Open Source and sharing knowledge.
-- 💻 Check out my Portfolio for more about me.
-- 🚀 Focused on Web Development, Backend Systems, and Cloud Technologies.
-- 📚 Curious about tools, frameworks, and best practices that improve coding.
-- 🤝 Open to collaborations and meaningful projects.
-- 🎯 Goal: Build impactful solutions and keep improving every day!
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itzmegelo&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 <br/>
-<hr/>
 
-### **🛠️ Technologies & Tools**
+<div align="center">
+  <a href="https://portfolio-one-blond-89.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Portfolio" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maldora.pojas.angelo@gmail.com&su=Job%20Opportunity" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Email" />
+  </a>
+  <a href="https://github.com/itzmegelo" target="_blank">
+    <img src="https://img.shields.io/github/followers/hayato-shino05?logo=github&style=for-the-badge&color=45B7D1&labelColor=1a1a1a&label=Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=itzmegelo&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
+</div>
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-FF2D20?style=flat&logo=codeigniter&logoColor=white)
-![Php](https://img.shields.io/badge/-Php-2B3E84?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-28AE1C?style=flat&logo=android&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0170FE?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+---
 
-![Firebase](https://img.shields.io/badge/-Firebase-1D2231?style=flat&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-3766A3?style=flat&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3D9B26?style=flat&logo=supabase&logoColor=white)
-![MongoDb](https://img.shields.io/badge/-MongoDb-2EC509?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3766A3?style=flat&logo=postgresql&logoColor=white)
-<br clear="both"/>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<table width="100%">
+```yaml
+name: Angelo Maldora
+location: Tagbilaran, Bohol
+status: Available for opportunities
+focus: Website and Mobile Development
+learning: [Laravel, React Native, React]
+hobbies: [Open Source, Problem Solving, Tech Innovation]
+```
+
+**🎯 Current Focus:**
+- 💻 Building responsive and high-performing websites
+- 📱 Developing cross-platform mobile applications
+- 🌐 Exploring modern web and mobile frameworks
+- 👯 Collaborating on open-source design and development projects
+- 💡 Creating intuitive and user-friendly digital experiences
+
+**🚀 Fun Facts:**
+- 🎮 Love solving algorithmic challenges
+- 🌍 Passionate about creating global impact through technology
+- ☕ Coffee-driven developer (definitely not tea! ☕➡️💻)
+- 🎨 Enjoy UI/UX design and creating beautiful interfaces
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Technology Arsenal
+
+<div align="center">
+
+### 🎯 Core Technologies
+<table>
   <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/itzmegelo">
-        <img src="https://github-readme-stats.vercel.app/api?username=itzmegelo&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
-      </a>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+      <br><strong>JavaScript</strong>
     </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/itzmegelo">
-        <img src="https://streak-stats.demolab.com?user=itzmegelo&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </a>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+      <br><strong>TypeScript</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/itzmegelo/InternFinder">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=InternFinder&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/itzmegelo">
-        <img src="https://github-contributor-stats.vercel.app/api?username=itzmegelo&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-      </a>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
+      <br><strong>PHP</strong>
     </td>
   </tr>
 </table>
-<br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmegelo&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+### ⚡ Frontend & UI
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Next.js" />
+      <br><strong>Vue.js</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+      <br><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Sass" />
+      <br><strong>Vite</strong>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Backend & Database
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="MongoDB" />
+      <br><strong>Supabase</strong>
+    </td>
+      <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="MongoDB" />
+      <br><strong>SQLite</strong>
+    </td>
+  </tr>
+</table>
+
+### ☁️ DevOps & Cloud
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="50" height="50" alt="Firebase" />
+      <br><strong>Firebase</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+      <br><strong>GitHub</strong>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+### 🎯 Currently Mastering
+<div align="center">
+  <img src="https://img.shields.io/badge/💻_Web_Development-0078D7?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="Web Development" />
+  <img src="https://img.shields.io/badge/📱_Mobile_Development-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a" alt="Mobile Development" />
+  <img src="https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a" alt="React" />
+  <img src="https://img.shields.io/badge/🧱_UI/UX_Design-FF6F61?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a" alt="UI/UX Design" />
+</div>
+
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+    Featured Projects 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=PalleteKit&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=false&border_color=FFD700&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/tim-kiem-thanh-le-hom-nay">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=Waifu&title_color=FF6B9D&text_color=ffffff&icon_color=FF6B9D&bg_color=0D1117&hide_border=false&border_color=FF6B9D&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=BoardingHouseManagemetSystem&title_color=9F7AEA&text_color=ffffff&icon_color=9F7AEA&bg_color=0D1117&hide_border=false&border_color=9F7AEA&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/Deepseek">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmegelo&repo=DigitalLibraryManagementSystem&title_color=4ECDC4&text_color=ffffff&icon_color=4ECDC4&bg_color=0D1117&hide_border=false&border_color=4ECDC4&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/itzmegelo?tab=repositories">
+    <img src="https://img.shields.io/badge/-🚀_Explore_All_Projects-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="View All Projects"/>
+  </a>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmegelo&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmegelo&layout=compact&count_private=true&langs_count=8&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzmegelo&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=4ECDC4&ring=FFD700&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
+</div>
+
+### 📊 Development Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmegelo&custom_title=Hayato's%20Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="100%" alt="Contribution Graph" />
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itzmegelo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophy" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Weekly Development Breakdown
+
 <div align="center">
   
-<a href="mailto:maldora.pojas.angelo@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="maldora.pojas.angelo@gmail.com" style="margin-bottom: 5px;" />
-</a>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itzmegelo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&border_radius=15)
 
-<a href="https://x.com/itzmegelo" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="itzmegelo" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/angelo_maldora" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="angelo" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.githubcom/itzmegelo" target="_blank">
-<img src="./github.png" width=50 height=50 alt="itzmegelo" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/angelo_maldora" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 </div>
-<br/>
 
-<!--Buy me a coffee-->
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Let's Connect & Collaborate
+
 <div align="center">
-<a href="https://buymeacoffee.com/suhaibking7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+  <a href="https://github.com/itzmegelo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hayato-Shinohara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
+  </a>
+  <a href="https://www.x.com/hayato_shino05" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" alt="Twitter" />
+  </a>
+  <a href="https://brightlearn.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Website" />
+  </a>
 </div>
 
-<br clear="both">
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
 
-<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <br>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25" /> Ready to build something extraordinary together?</h3>
+  
+  <p><strong>🚀 Available for exciting opportunities and innovative projects!</strong></p>
+  
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maldora.pojas.angelo@gmail.com&su=Job%20Opportunity" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Hire_Me-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Hire Me" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maldora.pojas.angelo@gmail.com&su=Project%20Collaboration" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Collaborate-FFD700?style=for-the-badge&logoColor=black&labelColor=1a1a1a" alt="Collaborate" />
+  </a>
+  <a href="https://github.com/itzmegelo?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_Star_Projects-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Star Projects" />
+  </a>
+</div>
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+</div>
